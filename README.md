@@ -1,7 +1,4 @@
 # Demo
 
-Some description!
+Some text!
 
-## Subheader
-
-Watch tutorial
